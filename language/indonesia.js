@@ -87,15 +87,14 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+saya 𝚉𝙰𝙵𝙸𝙱𝙾𝚃𝚉-𝙼𝙳, bot ini adalah Beta Multi-Device Whatsapp. 
+Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya,    
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu 𝚉𝙰𝙵𝙸𝙱𝙾𝚃𝚉-𝙼𝙳 :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -642,7 +641,7 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`PATUHI RULES GC BANH🗿
 	
 ╭ 𝖭𝖺𝗆𝖺 :
 ├ 𝖴𝗆𝗎𝗋 :
@@ -651,7 +650,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`KOK KELUAR BANH? 🗿
 Goodbye`
 }
 exports.source = () =>{
